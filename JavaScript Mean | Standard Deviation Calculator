@@ -1,3 +1,5 @@
+//This program takes an input of any data size (stop input with -999) and outputs the Standard Deviation or the Mean
+
 var data = [];
 
 function start() {
